@@ -1,4 +1,4 @@
-1. Irakli Gobejishvili
+1. **Irakli Gobejishvili**
 2. You can contact me via **irakli.gobejishvili[at]gmail.com** or Discord User ID **Flanger#8080**
 3. As a seasoned network engineer with almost two decades of experience in IT industry, I'm interested in further strengthening my knowledge by adding development skills into my arsenal. With the introduction of **SDN**, everything is slowly moving to the programming world and network engineers also have to adapt to that. Meanwhile this knowledge can be used for daily tasks like network automation, log parsing, various metric gathering etc. Primary area of interest is back end development / **Node.js.** and maybe integrating some basic front end functionality into neat electron instance.
 4. I have a basic knowledge of customizing already available source code for my needs using:
